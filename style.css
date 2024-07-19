@@ -1,0 +1,15 @@
+.bg-image{
+    background-image: url('https://ik.imagekit.io/yjfimkyak/Supplement%20project/image.png?updatedAt=1720724950740');
+    height: 100vh;
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.whey-img-bg{
+    background-image: url('https://ik.imagekit.io/yjfimkyak/Supplement%20project/360_F_359611414_DYnYxjujb7KCSrnruEsOYERCRiQmVTGY.jpg?updatedAt=1720550421199');
+    height: screen;
+    opacity: 0.6;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+}
